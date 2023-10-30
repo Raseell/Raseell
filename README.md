@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working as a trainee in SDA Machine Learning Bootcamp
 -  📫 How to reach me:
-  https://www.linkedin.com/in/raseel-alharbi-abb512279
+https://www.linkedin.com/in/raseel-alharbi-abb512279
 
 RaseelMansourAlharbi@gmail.com
 

@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working as a trainee in SDA Machine Learning Bootcamp
 -  📫 How to reach me:
-- https://www.linkedin.com/in/raseel-alharbi-abb512279
-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)RaseelMansourAlharbi@gmail.com
+ https://www.linkedin.com/in/raseel-alharbi-abb512279
+ RaseelMansourAlharbi@gmail.com
 
 <!--
 **Raseell/Raseell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

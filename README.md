@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Raseel Alharbi
 - 🔭 I’m currently working as a trainee in SDA Machine Learning Bootcamp
 -  📫 How to reach me:
   
